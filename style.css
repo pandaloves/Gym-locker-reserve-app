@@ -55,6 +55,7 @@ h2 {
 
 #reserve:hover {
   background-color: orangered;
+  cursor: pointer;
 }
 
 #footer {
