@@ -50,6 +50,7 @@ h2 {
   font-weight: bold;
   font-size: 18px;
   background-color: rgb(4, 214, 4);
+  margin: 18px auto;
 }
 
 #reserve:hover {
@@ -77,6 +78,7 @@ h2 {
     height: 56px;
     font-size: 18px;
     position: center;
+    margin: 15px auto;
   }
 
   .container {
@@ -96,6 +98,7 @@ h2 {
   #reserve {
     width: 190px;
     margin: 5px;
+    margin: 13px auto;
   }
   h2 {
     margin: 7px 0;
