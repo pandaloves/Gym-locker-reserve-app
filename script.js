@@ -1,3 +1,5 @@
+"use strict";
+
 const lockerDisplay = document.getElementById("lockers");
 
 function getNextAvailableLockerIndex(lockers) {
